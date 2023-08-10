@@ -9,15 +9,15 @@ class SearchCustomer:
     # optMonth_xpath = "//select[@name = 'SearchMonthOfBirth']//option[@value='{}']".format(input("Enter Month Number: "))
     slctDay_xpath = "//select[@name = 'SearchDayOfBirth']"
     ipcomp_id = "SearchCompany"
-    ipipa_name = "SearchIpAddress"
+    ipipad_name = "SearchIpAddress"
     slctCustomRole_xpath = "//div[@role = 'listbox']"
     slctCustomRole_Admin_xpath = "//select[@id = 'SelectedCustomerRoleIds']//option[@value = '1']"
     slctCustomRole_ForumMod_xpath = "//select[@id = 'SelectedCustomerRoleIds']//option[@value = '2']"
     slctCustomRole_Guests_xpath = "//select[@id = 'SelectedCustomerRoleIds']//option[text() = 'Guests']"
     slctCustomRole_Registered_xpath = "//select[@id = 'SelectedCustomerRoleIds']//option[contains(text(),'Registered')]"
     btnSearch_id = "search-customers"
-    table_grid_id = "customers-grid_wrapper"
-    table_id = "customers-grid"
+    table_grid_xpath = "//div[@id='customers-grid_wrapper']//div[@class='row']"
+    table_searchresults_xpath = "//table[@id = 'customers-grid']"
     table_rows_xpath = "//table[@id = 'customers-grid']//tbody//tr"
     table_columns_xpath = "//table[@id = 'customers-grid']//tbody//tr//td"
 
@@ -46,14 +46,32 @@ class SearchCustomer:
         self.driver.find_element(By.ID,self.btnSearch_id).click()
 
     def getNoOfRows(self):
-        return len(self.driver.find_element(By.XPATH,self.table_rows_xpath))
+        return len(self.driver.find_elements(By.XPATH,self.table_rows_xpath))
     def getNoOfColumns(self):
-        return len(self.driver.find_element(By.XPATH,self.table_columns_xpath))
+        return len(self.driver.find_elements(By.XPATH,self.table_columns_xpath))
 
-    def serchCustomerByEmail(self,Email):
+    def serchCustomerByEmail(self,email):
         flag = False
-        for r in range(1,self.getNoOfColumns()+1):
-            table = self.driver
+        for r in range(1,self.getNoOfRows()+1):
+            table = self.driver.find_element(By.XPATH,self.table_searchresults_xpath)
+            emailid = table.find_element(By.XPATH,"//table[@id = 'customers-grid']//tbody//tr["+str(r)+"]/td[2]").text
+            if emailid == email:
+                flag = True
+                break
+        return flag
+
+
+    def searchCustomerByName(self,Name):
+        flag = False
+        for r in range(1,self.getNoOfRows()+1):
+            table = self.driver.find_element(By.XPATH, self.table_searchresults_xpath)
+            name = table.find_element(By.XPATH,"//table[@id = 'customers-grid']//tbody//tr[" + str(r) + "]/td[3]").text
+            if name == Name:
+                flag = True
+                break
+        return flag
+
+
 
 
 

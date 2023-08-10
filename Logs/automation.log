@@ -445,3 +445,783 @@
 05052023 12:56:31 PM: INFO :********** Saving Customer Info **********
 05052023 12:56:37 PM: INFO :********** Add Customer Test Passed **********
 05052023 12:56:37 PM: INFO :********** Ending Add Customer Test **********
+05232023 04:33:34 PM: INFO :**********Test 003 AddCustomers **********
+05232023 04:33:51 PM: INFO :********** Login Successful **********
+05232023 04:33:51 PM: INFO :********** Starting Add Customer Test **********
+05232023 04:34:02 PM: INFO :********** Providing Customer Info **********
+05232023 04:34:03 PM: INFO :********** Email entered **********
+05232023 04:34:03 PM: INFO :********** Password entered **********
+05232023 04:34:04 PM: INFO :********** FirstName entered **********
+05232023 04:34:04 PM: INFO :********** Last Name entered **********
+05232023 04:34:05 PM: INFO :********** Gender Selected **********
+05232023 04:34:06 PM: INFO :********** DOB entered **********
+05232023 04:34:06 PM: INFO :********** Company entered **********
+05232023 04:34:06 PM: INFO :********** Checked In Tax Exempt **********
+05232023 04:34:18 PM: INFO :********** Customer roles selected **********
+05232023 04:34:18 PM: INFO :********** Vendors selected **********
+05232023 04:34:19 PM: INFO :********** Check/Uncheck Active **********
+05232023 04:34:19 PM: INFO :********** Comments entered **********
+05232023 04:34:28 PM: INFO :********** Clicked on save **********
+05232023 04:34:28 PM: INFO :********** Saving Customer Info **********
+05232023 04:34:34 PM: INFO :********** Add Customer Test Passed **********
+05232023 04:34:34 PM: INFO :********** Ending Add Customer Test **********
+05232023 04:36:21 PM: INFO :**********Test 003 AddCustomers **********
+05232023 04:36:38 PM: INFO :********** Login Successful **********
+05232023 04:36:38 PM: INFO :********** Starting Add Customer Test **********
+05232023 04:36:52 PM: INFO :********** Providing Customer Info **********
+05232023 04:36:52 PM: INFO :********** Email entered **********
+05232023 04:36:53 PM: INFO :********** Password entered **********
+05232023 04:36:53 PM: INFO :********** FirstName entered **********
+05232023 04:36:54 PM: INFO :********** Last Name entered **********
+05232023 04:36:55 PM: INFO :********** Gender Selected **********
+05232023 04:36:55 PM: INFO :********** DOB entered **********
+05232023 04:36:56 PM: INFO :********** Company entered **********
+05232023 04:36:56 PM: INFO :********** Checked In Tax Exempt **********
+05232023 04:37:08 PM: INFO :********** Customer roles selected **********
+05232023 04:37:08 PM: INFO :********** Vendors selected **********
+05232023 04:37:08 PM: INFO :********** Check/Uncheck Active **********
+05232023 04:37:09 PM: INFO :********** Comments entered **********
+05232023 04:37:17 PM: INFO :********** Clicked on save **********
+05232023 04:37:17 PM: INFO :********** Saving Customer Info **********
+05232023 04:37:24 PM: INFO :********** Add Customer Test Passed **********
+05232023 04:37:24 PM: INFO :********** Ending Add Customer Test **********
+05232023 04:37:31 PM: INFO :********* TC_001_Login *********
+05232023 04:37:31 PM: INFO :********* Verifying test_homePageTitle *********
+05232023 04:37:35 PM: INFO :********* PASSED: test_homePageTitle *********
+05232023 04:37:39 PM: INFO :********* Verifying test_login *********
+05232023 04:37:57 PM: INFO :********* PASSED: test_login *********
+05232023 04:38:02 PM: INFO :********* Verifying Test_002_DDT_Login *********
+05232023 04:38:02 PM: INFO :********* Verifying test_login_ddt *********
+05232023 04:38:23 PM: INFO :*** Passed ***
+05232023 04:38:31 PM: INFO :*** Passed ***
+05232023 04:38:37 PM: INFO :*** Passed ***
+05232023 04:38:37 PM: INFO :*** Login DDT Test is Passed ***
+05232023 04:38:38 PM: INFO :*** END OF LOGIN DDT Test ***
+05232023 04:38:38 PM: INFO :*** Completed Test_002_DDT_Login ***
+08042023 01:28:40 PM: WARNING :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08042023 01:28:49 PM: INFO :********* TC_001_Login *********
+08042023 01:28:49 PM: INFO :********* Verifying test_homePageTitle *********
+08042023 01:28:52 PM: INFO :********* PASSED: test_homePageTitle *********
+08042023 01:28:57 PM: INFO :********* Verifying test_login *********
+08042023 01:29:12 PM: INFO :********* PASSED: test_login *********
+08042023 01:35:40 PM: INFO :********* TC_001_Login *********
+08042023 01:35:40 PM: INFO :********* Verifying test_homePageTitle *********
+08042023 01:35:44 PM: INFO :********* FAILED: test_homePageTitle *********
+08042023 01:35:49 PM: INFO :********* Verifying test_login *********
+08042023 01:36:04 PM: INFO :********* PASSED: test_login *********
+08042023 01:37:13 PM: INFO :********* TC_001_Login *********
+08042023 01:37:13 PM: INFO :********* Verifying test_homePageTitle *********
+08042023 01:37:16 PM: INFO :********* FAILED: test_homePageTitle *********
+08042023 01:37:22 PM: INFO :********* Verifying test_login *********
+08042023 01:37:38 PM: ERROR :********* FAILED: test_login *********
+08092023 02:32:27 PM: WARNING :Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5)
+08092023 02:32:33 PM: INFO :********* TC_001_Login *********
+08092023 02:32:33 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 02:32:37 PM: ERROR :********* FAILED: test_homePageTitle *********
+08092023 02:32:42 PM: INFO :********* Verifying test_login *********
+08092023 02:33:00 PM: ERROR :********* FAILED: test_login *********
+08092023 02:35:07 PM: INFO :********* TC_001_Login *********
+08092023 02:35:07 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 02:35:11 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 02:35:17 PM: INFO :********* Verifying test_login *********
+08092023 02:35:35 PM: INFO :********* PASSED: test_login *********
+08092023 03:09:56 PM: INFO :====== WebDriver manager ======
+08092023 03:09:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:09:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:09:56 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 03:09:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:09:57 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 03:09:57 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:09:57 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:09:57 PM: INFO :Driver downloading response is 200
+08092023 03:09:57 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:09:57 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 03:10:06 PM: INFO :********* TC_001_Login *********
+08092023 03:10:06 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:10:09 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:10:09 PM: INFO :====== WebDriver manager ======
+08092023 03:10:09 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:10:09 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:10:09 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 03:10:09 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:10:09 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 03:10:09 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:10:09 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:10:10 PM: INFO :Driver downloading response is 200
+08092023 03:10:10 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:10:10 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 03:10:18 PM: INFO :********* Verifying test_login *********
+08092023 03:10:33 PM: INFO :********* PASSED: test_login *********
+08092023 03:10:42 PM: INFO :********* TC_001_Login *********
+08092023 03:10:42 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:10:42 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:10:43 PM: INFO :********* Verifying test_login *********
+08092023 03:10:44 PM: ERROR :********* FAILED: test_login *********
+08092023 03:11:06 PM: INFO :********* TC_001_Login *********
+08092023 03:11:06 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:11:06 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:11:07 PM: INFO :********* Verifying test_login *********
+08092023 03:11:08 PM: ERROR :********* FAILED: test_login *********
+08092023 03:14:09 PM: INFO :====== WebDriver manager ======
+08092023 03:14:22 PM: INFO :Get LATEST geckodriver version for 112.0 firefox
+08092023 03:14:22 PM: INFO :Get LATEST geckodriver version for 112.0 firefox
+08092023 03:14:22 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "112.0" in cache
+08092023 03:14:22 PM: INFO :Get LATEST geckodriver version for 112.0 firefox
+08092023 03:14:22 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:14:23 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:14:23 PM: INFO :Driver downloading response is 200
+08092023 03:14:23 PM: INFO :Get LATEST geckodriver version for 112.0 firefox
+08092023 03:14:24 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:14:25 PM: INFO :====== WebDriver manager ======
+08092023 03:14:39 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:14:39 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:14:39 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:14:39 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:14:40 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:14:40 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:14:40 PM: INFO :Driver downloading response is 200
+08092023 03:14:40 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:14:40 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:14:43 PM: INFO :********* Verifying test_login *********
+08092023 03:14:45 PM: INFO :********* PASSED: test_login *********
+08092023 03:15:36 PM: INFO :====== WebDriver manager ======
+08092023 03:15:37 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:37 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:37 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:15:37 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:37 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:15:37 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:15:38 PM: INFO :Driver downloading response is 200
+08092023 03:15:38 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:38 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:15:41 PM: INFO :********* TC_001_Login *********
+08092023 03:15:41 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:15:42 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:15:42 PM: INFO :====== WebDriver manager ======
+08092023 03:15:42 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:43 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:43 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:15:43 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:43 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:15:43 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:15:43 PM: INFO :Driver downloading response is 200
+08092023 03:15:43 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:15:44 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:15:46 PM: INFO :********* Verifying test_login *********
+08092023 03:15:47 PM: INFO :********* PASSED: test_login *********
+08092023 03:16:05 PM: INFO :********* TC_001_Login *********
+08092023 03:16:05 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:16:05 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:16:06 PM: INFO :********* Verifying test_login *********
+08092023 03:16:07 PM: ERROR :********* FAILED: test_login *********
+08092023 03:36:43 PM: INFO :********* TC_001_Login *********
+08092023 03:36:43 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:36:44 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:36:45 PM: INFO :********* Verifying test_login *********
+08092023 03:36:51 PM: ERROR :********* FAILED: test_login *********
+08092023 03:37:27 PM: INFO :********* TC_001_Login *********
+08092023 03:37:27 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:37:27 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:37:29 PM: INFO :********* Verifying test_login *********
+08092023 03:37:44 PM: INFO :********* PASSED: test_login *********
+08092023 03:43:25 PM: INFO :====== WebDriver manager ======
+08092023 03:43:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:26 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 03:43:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:26 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 03:43:26 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:43:26 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:43:26 PM: INFO :Driver downloading response is 200
+08092023 03:43:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:26 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 03:43:34 PM: INFO :********* TC_001_Login *********
+08092023 03:43:34 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:43:38 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:43:38 PM: INFO :====== WebDriver manager ======
+08092023 03:43:38 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:38 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:38 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 03:43:38 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:38 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 03:43:38 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:43:38 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:43:38 PM: INFO :Driver downloading response is 200
+08092023 03:43:39 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:43:39 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 03:43:47 PM: INFO :********* Verifying test_login *********
+08092023 03:44:14 PM: INFO :********* PASSED: test_login *********
+08092023 03:45:16 PM: INFO :====== WebDriver manager ======
+08092023 03:45:16 PM: INFO :Get LATEST edgedriver version for Edge None
+08092023 03:45:16 PM: INFO :About to download new driver from https://msedgedriver.azureedge.net/115.0.1901.200/edgedriver_mac64.zip
+08092023 03:45:16 PM: INFO :Driver downloading response is 200
+08092023 03:45:17 PM: INFO :Get LATEST edgedriver version for Edge None
+08092023 03:45:17 PM: INFO :Get LATEST edgedriver version for Edge None
+08092023 03:45:18 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/edgedriver/mac64/115.0.1901.200]
+08092023 03:46:21 PM: INFO :====== WebDriver manager ======
+08092023 03:46:21 PM: INFO :Get LATEST edgedriver version for Edge None
+08092023 03:46:22 PM: INFO :About to download new driver from https://msedgedriver.azureedge.net/115.0.1901.200/edgedriver_mac64.zip
+08092023 03:46:22 PM: INFO :Driver downloading response is 200
+08092023 03:46:22 PM: INFO :Get LATEST edgedriver version for Edge None
+08092023 03:46:23 PM: INFO :Get LATEST edgedriver version for Edge None
+08092023 03:46:23 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/edgedriver/mac64/115.0.1901.200]
+08092023 03:48:50 PM: INFO :xdist worker is: gw1
+08092023 03:48:50 PM: INFO :xdist worker is: gw0
+08092023 03:48:50 PM: INFO :====== WebDriver manager ======
+08092023 03:48:50 PM: INFO :====== WebDriver manager ======
+08092023 03:48:51 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:51 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:51 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:51 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:51 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:48:51 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:51 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:48:51 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:51 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:48:51 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:48:52 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:48:52 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:48:52 PM: INFO :Driver downloading response is 200
+08092023 03:48:52 PM: INFO :Driver downloading response is 200
+08092023 03:48:52 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:52 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:48:52 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:48:52 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw1/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:48:55 PM: INFO :xdist worker is: gw1
+08092023 03:48:55 PM: INFO :====== WebDriver manager ======
+08092023 03:48:55 PM: INFO :xdist worker is: gw0
+08092023 03:48:55 PM: INFO :====== WebDriver manager ======
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 03:48:56 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:48:56 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:48:56 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 03:48:56 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:48:56 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 03:48:56 PM: INFO :Driver downloading response is 200
+08092023 03:48:56 PM: INFO :Driver downloading response is 200
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:56 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw1/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 03:48:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 03:48:57 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 03:49:04 PM: INFO :********* Verifying test_login *********
+08092023 03:49:07 PM: INFO :********* TC_001_Login *********
+08092023 03:49:07 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:49:10 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:49:32 PM: INFO :********* PASSED: test_login *********
+08092023 03:51:41 PM: INFO :xdist worker is: gw1
+08092023 03:51:41 PM: INFO :====== WebDriver manager ======
+08092023 03:51:41 PM: INFO :xdist worker is: gw0
+08092023 03:51:41 PM: INFO :====== WebDriver manager ======
+08092023 03:51:41 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:41 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:41 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:41 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:42 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:51:42 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:42 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:51:42 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:42 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:51:42 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:51:42 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:51:42 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:51:43 PM: INFO :Driver downloading response is 200
+08092023 03:51:43 PM: INFO :Driver downloading response is 200
+08092023 03:51:43 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:43 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:51:43 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw1/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:51:43 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:51:46 PM: INFO :********* TC_001_Login *********
+08092023 03:51:46 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:51:46 PM: INFO :********* Verifying test_login *********
+08092023 03:51:47 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:52:05 PM: INFO :********* PASSED: test_login *********
+08092023 03:55:46 PM: INFO :xdist worker is: gw1
+08092023 03:55:46 PM: INFO :xdist worker is: gw0
+08092023 03:55:46 PM: INFO :====== WebDriver manager ======
+08092023 03:55:46 PM: INFO :====== WebDriver manager ======
+08092023 03:55:46 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:46 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:46 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:46 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:46 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:55:46 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:46 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:55:46 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:47 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:55:47 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:55:47 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:55:47 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:55:47 PM: INFO :Driver downloading response is 200
+08092023 03:55:47 PM: INFO :Driver downloading response is 200
+08092023 03:55:47 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:48 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:55:48 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:55:48 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw1/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:55:51 PM: INFO :********* Verifying test_login *********
+08092023 03:55:51 PM: INFO :********* TC_001_Login *********
+08092023 03:55:51 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:55:52 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:56:08 PM: INFO :********* PASSED: test_login *********
+08092023 03:59:15 PM: INFO :xdist worker is: gw1
+08092023 03:59:15 PM: INFO :xdist worker is: gw0
+08092023 03:59:15 PM: INFO :====== WebDriver manager ======
+08092023 03:59:15 PM: INFO :====== WebDriver manager ======
+08092023 03:59:15 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:15 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:16 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:16 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:16 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:59:16 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:16 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "113.0" in cache
+08092023 03:59:16 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:16 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:59:16 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 03:59:16 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:59:16 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 03:59:17 PM: INFO :Driver downloading response is 200
+08092023 03:59:17 PM: INFO :Driver downloading response is 200
+08092023 03:59:17 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:17 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:17 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/geckodriver/mac64/v0.33.0]
+08092023 03:59:20 PM: INFO :********* TC_001_Login *********
+08092023 03:59:20 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 03:59:21 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 03:59:36 PM: INFO :xdist worker is: gw1
+08092023 03:59:36 PM: INFO :xdist worker is: gw0
+08092023 03:59:36 PM: INFO :====== WebDriver manager ======
+08092023 03:59:36 PM: INFO :====== WebDriver manager ======
+08092023 03:59:37 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 03:59:37 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 04:00:29 PM: INFO :xdist worker is: gw1
+08092023 04:00:29 PM: INFO :====== WebDriver manager ======
+08092023 04:00:29 PM: INFO :xdist worker is: gw0
+08092023 04:00:29 PM: INFO :====== WebDriver manager ======
+08092023 04:00:30 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 04:00:30 PM: INFO :Get LATEST geckodriver version for 113.0 firefox
+08092023 04:00:43 PM: INFO :xdist worker is: gw1
+08092023 04:00:43 PM: INFO :====== WebDriver manager ======
+08092023 04:00:43 PM: INFO :xdist worker is: gw0
+08092023 04:00:43 PM: INFO :====== WebDriver manager ======
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 04:00:44 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:00:44 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:00:44 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 04:00:44 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:00:44 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:00:44 PM: INFO :Driver downloading response is 200
+08092023 04:00:44 PM: INFO :Driver downloading response is 200
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:00:44 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 04:00:44 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw1/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 04:00:52 PM: INFO :********* TC_001_Login *********
+08092023 04:00:52 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 04:00:54 PM: INFO :********* Verifying test_login *********
+08092023 04:00:56 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 04:01:22 PM: INFO :********* PASSED: test_login *********
+08092023 04:26:40 PM: INFO :====== WebDriver manager ======
+08092023 04:26:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:26:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:26:41 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 04:26:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:26:41 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 04:26:41 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:26:41 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:26:41 PM: INFO :Driver downloading response is 200
+08092023 04:26:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:26:42 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 04:26:50 PM: INFO :********* Verifying Test_002_DDT_Login *********
+08092023 04:26:50 PM: INFO :********* Verifying test_login_ddt *********
+08092023 04:27:05 PM: INFO :*** Passed ***
+08092023 04:27:13 PM: INFO :*** Passed ***
+08092023 04:27:19 PM: INFO :*** Passed ***
+08092023 04:27:19 PM: INFO :*** Login DDT Test is Passed ***
+08092023 04:27:19 PM: INFO :*** END OF LOGIN DDT Test ***
+08092023 04:27:19 PM: INFO :*** Completed Test_002_DDT_Login ***
+08092023 04:27:54 PM: INFO :====== WebDriver manager ======
+08092023 04:28:07 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+08092023 04:28:07 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+08092023 04:28:07 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+08092023 04:28:07 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+08092023 04:28:07 PM: INFO :Getting latest mozilla release info for v0.33.0
+08092023 04:28:08 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+08092023 04:28:08 PM: INFO :Driver downloading response is 200
+08092023 04:28:09 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+08092023 04:28:09 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+08092023 04:28:11 PM: INFO :********* Verifying Test_002_DDT_Login *********
+08092023 04:28:11 PM: INFO :********* Verifying test_login_ddt *********
+08092023 04:28:18 PM: INFO :*** Passed ***
+08092023 04:28:24 PM: INFO :*** Passed ***
+08092023 04:28:29 PM: INFO :*** Passed ***
+08092023 04:28:29 PM: INFO :*** Login DDT Test is Passed ***
+08092023 04:28:30 PM: INFO :*** END OF LOGIN DDT Test ***
+08092023 04:28:30 PM: INFO :*** Completed Test_002_DDT_Login ***
+08092023 04:29:15 PM: INFO :xdist worker is: gw1
+08092023 04:29:15 PM: INFO :====== WebDriver manager ======
+08092023 04:29:15 PM: INFO :xdist worker is: gw0
+08092023 04:29:15 PM: INFO :====== WebDriver manager ======
+08092023 04:29:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:15 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 04:29:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:15 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 04:29:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:16 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 04:29:16 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:29:16 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:29:16 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 04:29:16 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:29:16 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:29:16 PM: INFO :Driver downloading response is 200
+08092023 04:29:16 PM: INFO :Driver downloading response is 200
+08092023 04:29:16 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:16 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw0/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 04:29:16 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:29:16 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/gw1/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 04:29:24 PM: INFO :********* TC_001_Login *********
+08092023 04:29:24 PM: INFO :********* Verifying test_login *********
+08092023 04:29:24 PM: INFO :********* Verifying test_homePageTitle *********
+08092023 04:29:28 PM: INFO :********* PASSED: test_homePageTitle *********
+08092023 04:29:53 PM: INFO :********* PASSED: test_login *********
+08092023 04:39:58 PM: INFO :====== WebDriver manager ======
+08092023 04:39:59 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:39:59 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:39:59 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08092023 04:39:59 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:39:59 PM: INFO :WebDriver version 115.0.5790.170 selected
+08092023 04:39:59 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:39:59 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08092023 04:39:59 PM: INFO :Driver downloading response is 200
+08092023 04:39:59 PM: INFO :Get LATEST chromedriver version for google-chrome
+08092023 04:39:59 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08092023 04:40:07 PM: INFO :********* Verifying Test_002_DDT_Login *********
+08092023 04:40:07 PM: INFO :********* Verifying test_login_ddt *********
+08092023 04:40:26 PM: INFO :*** Passed ***
+08092023 04:40:35 PM: INFO :*** Passed ***
+08092023 04:40:40 PM: INFO :*** Passed ***
+08092023 04:40:40 PM: INFO :*** Login DDT Test is Passed ***
+08092023 04:40:41 PM: INFO :*** END OF LOGIN DDT Test ***
+08092023 04:40:41 PM: INFO :*** Completed Test_002_DDT_Login ***
+08102023 12:52:08 PM: INFO :====== WebDriver manager ======
+08102023 12:52:09 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 12:52:09 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 12:52:09 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 12:52:09 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 12:52:09 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 12:52:09 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 12:52:09 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 12:52:09 PM: INFO :Driver downloading response is 200
+08102023 12:52:10 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 12:52:10 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 12:52:18 PM: INFO :**********Test 003 AddCustomers **********
+08102023 12:52:32 PM: INFO :********** Login Successful **********
+08102023 12:52:32 PM: INFO :********** Starting Add Customer Test **********
+08102023 12:52:43 PM: INFO :********** Providing Customer Info **********
+08102023 12:52:43 PM: INFO :********** Email entered **********
+08102023 12:52:43 PM: INFO :********** Password entered **********
+08102023 12:52:43 PM: INFO :********** FirstName entered **********
+08102023 12:52:44 PM: INFO :********** Last Name entered **********
+08102023 12:52:44 PM: INFO :********** Gender Selected **********
+08102023 12:52:46 PM: INFO :********** DOB entered **********
+08102023 12:52:46 PM: INFO :********** Company entered **********
+08102023 12:52:47 PM: INFO :********** Checked In Tax Exempt **********
+08102023 12:52:58 PM: INFO :********** Customer roles selected **********
+08102023 12:52:58 PM: INFO :********** Vendors selected **********
+08102023 12:52:59 PM: INFO :********** Check/Uncheck Active **********
+08102023 12:52:59 PM: INFO :********** Comments entered **********
+08102023 12:53:07 PM: INFO :********** Clicked on save **********
+08102023 12:53:07 PM: INFO :********** Saving Customer Info **********
+08102023 12:53:13 PM: INFO :********** Add Customer Test Passed **********
+08102023 12:53:13 PM: INFO :********** Ending Add Customer Test **********
+08102023 01:26:26 PM: INFO :====== WebDriver manager ======
+08102023 01:26:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:26:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:26:26 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:26:26 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:26:27 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:26:27 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:26:27 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:26:27 PM: INFO :Driver downloading response is 200
+08102023 01:26:27 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:26:27 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:26:35 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:31:34 PM: INFO :====== WebDriver manager ======
+08102023 01:31:35 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:31:35 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:31:35 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:31:35 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:31:35 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:31:35 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:31:35 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:31:35 PM: INFO :Driver downloading response is 200
+08102023 01:31:35 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:31:35 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:31:46 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:35:44 PM: INFO :====== WebDriver manager ======
+08102023 01:35:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:35:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:35:44 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:35:44 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:35:44 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:35:44 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:35:44 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:35:44 PM: INFO :Driver downloading response is 200
+08102023 01:35:45 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:35:45 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:35:54 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:36:19 PM: INFO :====== WebDriver manager ======
+08102023 01:36:19 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:36:19 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:36:19 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:36:19 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:36:19 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:36:19 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:36:19 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:36:19 PM: INFO :Driver downloading response is 200
+08102023 01:36:20 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:36:20 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:36:29 PM: INFO :**********Test 003 AddCustomers **********
+08102023 01:36:43 PM: INFO :********** Login Successful **********
+08102023 01:36:43 PM: INFO :********** Starting Add Customer Test **********
+08102023 01:36:53 PM: INFO :********** Providing Customer Info **********
+08102023 01:36:54 PM: INFO :********** Email entered **********
+08102023 01:36:54 PM: INFO :********** Password entered **********
+08102023 01:36:54 PM: INFO :********** FirstName entered **********
+08102023 01:36:54 PM: INFO :********** Last Name entered **********
+08102023 01:36:55 PM: INFO :********** Gender Selected **********
+08102023 01:36:55 PM: INFO :********** DOB entered **********
+08102023 01:36:57 PM: INFO :********** Company entered **********
+08102023 01:36:57 PM: INFO :********** Checked In Tax Exempt **********
+08102023 01:37:08 PM: INFO :********** Customer roles selected **********
+08102023 01:37:09 PM: INFO :********** Vendors selected **********
+08102023 01:37:09 PM: INFO :********** Check/Uncheck Active **********
+08102023 01:37:09 PM: INFO :********** Comments entered **********
+08102023 01:37:18 PM: INFO :********** Clicked on save **********
+08102023 01:37:18 PM: INFO :********** Saving Customer Info **********
+08102023 01:37:24 PM: INFO :********** Add Customer Test Passed **********
+08102023 01:37:24 PM: INFO :********** Ending Add Customer Test **********
+08102023 01:39:14 PM: INFO :====== WebDriver manager ======
+08102023 01:39:14 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:39:14 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:39:14 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:39:14 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:39:15 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:39:15 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:39:15 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:39:15 PM: INFO :Driver downloading response is 200
+08102023 01:39:15 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:39:15 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:39:26 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:39:39 PM: INFO :***** Login Successful *****
+08102023 01:39:39 PM: INFO :***** Searching Customer with Email ID *****
+08102023 01:41:58 PM: INFO :====== WebDriver manager ======
+08102023 01:41:58 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:41:58 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:41:58 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:41:58 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:41:58 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:41:58 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:41:58 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:41:58 PM: INFO :Driver downloading response is 200
+08102023 01:41:59 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:41:59 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:42:08 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:42:22 PM: INFO :***** Login Successful *****
+08102023 01:42:22 PM: INFO :***** Searching Customer with Email ID *****
+08102023 01:51:31 PM: INFO :====== WebDriver manager ======
+08102023 01:51:31 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:51:31 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:51:31 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:51:31 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:51:32 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:51:32 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:51:32 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:51:32 PM: INFO :Driver downloading response is 200
+08102023 01:51:32 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:51:32 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:51:42 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:51:56 PM: INFO :***** Login Successful *****
+08102023 01:51:56 PM: INFO :***** Searching Customer with Email ID *****
+08102023 01:53:36 PM: INFO :====== WebDriver manager ======
+08102023 01:53:36 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:53:36 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:53:36 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 01:53:36 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:53:36 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 01:53:36 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:53:36 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 01:53:37 PM: INFO :Driver downloading response is 200
+08102023 01:53:37 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 01:53:37 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 01:53:47 PM: INFO :********** Search Customer By Email_004 **********
+08102023 01:54:00 PM: INFO :***** Login Successful *****
+08102023 01:54:00 PM: INFO :***** Searching Customer with Email ID *****
+08102023 02:19:10 PM: INFO :====== WebDriver manager ======
+08102023 02:19:10 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:19:10 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:19:10 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:19:10 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:19:10 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:19:10 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:19:10 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:19:10 PM: INFO :Driver downloading response is 200
+08102023 02:19:11 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:19:11 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:19:20 PM: INFO :********** Search Customer By Name_005 **********
+08102023 02:19:33 PM: INFO :***** Login Successful *****
+08102023 02:19:33 PM: INFO :***** Searching Customer with First Name and Last Name *****
+08102023 02:25:13 PM: INFO :====== WebDriver manager ======
+08102023 02:25:13 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:25:13 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:25:13 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:25:13 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:25:13 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:25:13 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:25:13 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:25:13 PM: INFO :Driver downloading response is 200
+08102023 02:25:14 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:25:14 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:25:24 PM: INFO :********** Search Customer By Name_005 **********
+08102023 02:25:37 PM: INFO :***** Login Successful *****
+08102023 02:25:37 PM: INFO :***** Searching Customer with First Name and Last Name *****
+08102023 02:25:53 PM: INFO :***** Test_SearchCustomerByName_004 Finished *****
+08102023 02:26:55 PM: INFO :====== WebDriver manager ======
+08102023 02:26:55 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:26:55 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:26:55 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:26:55 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:26:55 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:26:55 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:26:55 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:26:55 PM: INFO :Driver downloading response is 200
+08102023 02:26:56 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:26:56 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:27:06 PM: INFO :********** Search Customer By Email_004 **********
+08102023 02:27:20 PM: INFO :***** Login Successful *****
+08102023 02:27:20 PM: INFO :***** Searching Customer with Email ID *****
+08102023 02:27:35 PM: INFO :***** Test_SearchCustomerByEmail_004 Finished *****
+08102023 02:28:41 PM: INFO :====== WebDriver manager ======
+08102023 02:28:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:28:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:28:41 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:28:41 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:28:42 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:28:42 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:28:42 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:28:42 PM: INFO :Driver downloading response is 200
+08102023 02:28:42 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:28:42 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:28:52 PM: INFO :**********Test 003 AddCustomers **********
+08102023 02:29:06 PM: INFO :********** Login Successful **********
+08102023 02:29:06 PM: INFO :********** Starting Add Customer Test **********
+08102023 02:29:18 PM: INFO :********** Providing Customer Info **********
+08102023 02:29:19 PM: INFO :********** Email entered **********
+08102023 02:29:19 PM: INFO :********** Password entered **********
+08102023 02:29:19 PM: INFO :********** FirstName entered **********
+08102023 02:29:20 PM: INFO :********** Last Name entered **********
+08102023 02:29:20 PM: INFO :********** Gender Selected **********
+08102023 02:29:21 PM: INFO :********** DOB entered **********
+08102023 02:29:21 PM: INFO :********** Company entered **********
+08102023 02:29:22 PM: INFO :********** Checked In Tax Exempt **********
+08102023 02:29:33 PM: INFO :********** Customer roles selected **********
+08102023 02:29:33 PM: INFO :********** Vendors selected **********
+08102023 02:29:33 PM: INFO :********** Check/Uncheck Active **********
+08102023 02:29:33 PM: INFO :********** Comments entered **********
+08102023 02:29:42 PM: INFO :********** Clicked on save **********
+08102023 02:29:42 PM: INFO :********** Saving Customer Info **********
+08102023 02:29:49 PM: INFO :********** Add Customer Test Passed **********
+08102023 02:29:49 PM: INFO :********** Ending Add Customer Test **********
+08102023 02:29:49 PM: INFO :====== WebDriver manager ======
+08102023 02:29:49 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:29:49 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:29:49 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:29:49 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:29:49 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:29:49 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:29:49 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:29:49 PM: INFO :Driver downloading response is 200
+08102023 02:29:49 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:29:49 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:29:58 PM: INFO :********* TC_001_Login *********
+08102023 02:29:58 PM: INFO :********* Verifying test_homePageTitle *********
+08102023 02:30:00 PM: INFO :********* PASSED: test_homePageTitle *********
+08102023 02:30:00 PM: INFO :====== WebDriver manager ======
+08102023 02:30:00 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:00 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:00 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:30:00 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:01 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:30:01 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:30:01 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:30:01 PM: INFO :Driver downloading response is 200
+08102023 02:30:01 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:01 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:30:09 PM: INFO :********* Verifying test_login *********
+08102023 02:30:36 PM: INFO :********* PASSED: test_login *********
+08102023 02:30:37 PM: INFO :====== WebDriver manager ======
+08102023 02:30:37 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:37 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:37 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:30:37 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:37 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:30:37 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:30:37 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:30:37 PM: INFO :Driver downloading response is 200
+08102023 02:30:37 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:30:37 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:30:44 PM: INFO :********* Verifying Test_002_DDT_Login *********
+08102023 02:30:44 PM: INFO :********* Verifying test_login_ddt *********
+08102023 02:31:02 PM: INFO :*** Passed ***
+08102023 02:31:11 PM: INFO :*** Passed ***
+08102023 02:31:17 PM: INFO :*** Passed ***
+08102023 02:31:17 PM: INFO :*** Login DDT Test is Passed ***
+08102023 02:31:17 PM: INFO :*** END OF LOGIN DDT Test ***
+08102023 02:31:17 PM: INFO :*** Completed Test_002_DDT_Login ***
+08102023 02:31:17 PM: INFO :====== WebDriver manager ======
+08102023 02:31:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:17 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:31:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:17 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:31:17 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:31:17 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:31:18 PM: INFO :Driver downloading response is 200
+08102023 02:31:18 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:18 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:31:27 PM: INFO :********** Search Customer By Name_005 **********
+08102023 02:31:40 PM: INFO :***** Login Successful *****
+08102023 02:31:40 PM: INFO :***** Searching Customer with First Name and Last Name *****
+08102023 02:31:53 PM: INFO :***** Test_SearchCustomerByName_004 Finished *****
+08102023 02:31:53 PM: INFO :====== WebDriver manager ======
+08102023 02:31:54 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:54 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:54 PM: INFO :There is no [mac64] chromedriver "115.0.5790.170" for browser google-chrome "115.0.5790.170" in cache
+08102023 02:31:54 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:54 PM: INFO :WebDriver version 115.0.5790.170 selected
+08102023 02:31:54 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:31:54 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/mac-x64/chromedriver-mac-x64.zip
+08102023 02:31:54 PM: INFO :Driver downloading response is 200
+08102023 02:31:54 PM: INFO :Get LATEST chromedriver version for google-chrome
+08102023 02:31:54 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/115.0.5790.170]
+08102023 02:32:03 PM: INFO :********** Search Customer By Email_004 **********
+08102023 02:32:16 PM: INFO :***** Login Successful *****
+08102023 02:32:16 PM: INFO :***** Searching Customer with Email ID *****
+08102023 02:32:31 PM: INFO :***** Test_SearchCustomerByEmail_004 Finished *****

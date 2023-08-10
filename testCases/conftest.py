@@ -1,14 +1,38 @@
 import pytest
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.firefox import GeckoDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 #this decorator will make this as fixture
+
 @pytest.fixture
 def setup(browser):
-    path = "./chromedriver"
-    driver = webdriver.Chrome(path)#Only CHrome broswer
-    print("Launching Chrome Driver")
-
+    if browser == "chrome":
+        driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        print("Launching Chrome Browser.......")
+    elif browser == "firefox":
+        driver = webdriver.Firefox(executable_path = GeckoDriverManager().install())
+        print("Launching Firefox Browser.......")
+    elif browser == "edge":
+        driver = webdriver.Edge(executable_path=EdgeChromiumDriverManager().install())
+        print("Launching Edge Browser.......")
+    elif browser == "safari":
+        driver = webdriver.Safari()
+        print("Launching Safari Browser.......")
+    else:#Default driver
+        driver = webdriver.Chrome(executable_path=ChromeDriverManager().install())
+        print("Launching Chrome Browser.......")
     return driver #returndriver
+
+# @pytest.fixture
+# def setup(browser):
+#     path = "./chromedriver"
+#     driver = webdriver.Chrome(path)#Only CHrome broswer
+#     print("Launching Chrome Driver")
+#
+#     return driver #returndriver
+
 
 #Run tests on desired browser/Cross Browser/Parallel
 #Different browsers parallely
@@ -39,10 +63,5 @@ def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME",None)
     metadata.pop("Plugins", None)
 
-# @pytest.fixture #Trial
-# def setup():
-#     my_options=webdriver.ChromeOptions()
-#     my_options.add_experimental_option("detach", True)
-#     browser = webdriver.Chrome('chromedriver.exe',options=my_options)
-#     driver = webdriver.Chrome(options=my_options)
+
 
