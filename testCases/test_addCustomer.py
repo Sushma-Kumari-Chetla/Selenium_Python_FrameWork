@@ -1,3 +1,5 @@
+import pytest
+
 from pageObjects.LoginPage import LoginPage
 from pageObjects.add_customer import AddCustomer
 #We get common URLs from config file
@@ -9,12 +11,16 @@ from selenium.webdriver.common.by import By
 from selenium import webdriver
 import time
 
+
+
+
 class Test_003_AddCustomer:
     baseURL = ReadConfig.getApplicationURL()
     username = ReadConfig.getUserName()
     password = ReadConfig.getPassWord()
     logger = LogGen.loggen()
 
+    @pytest.mark.sanity
     def test_addCustomer(self,setup):
 
         self.logger.info("**********Test 003 AddCustomers **********")

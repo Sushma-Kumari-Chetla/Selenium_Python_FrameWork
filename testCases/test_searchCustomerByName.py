@@ -1,5 +1,7 @@
 import time
 
+import pytest
+
 from utilities.customLogger import LogGen
 from utilities.readproperties import ReadConfig
 from pageObjects.LoginPage import LoginPage
@@ -13,6 +15,7 @@ class Test_SearchCustomerByName_005:
     password = ReadConfig.getPassWord()
     logger = LogGen.loggen()#logger
 
+    @pytest.mark.regression
     def test_searchCustomerByName(self,setup):
         self.logger.info("********** Search Customer By Name_005 **********")
         self.driver = setup

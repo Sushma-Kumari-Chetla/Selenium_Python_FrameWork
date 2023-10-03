@@ -1062,3 +1062,71 @@ DevTools listening on ws://127.0.0.1:53885/devtools/browser/bfe74855-4750-4cd6-b
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
 1691623709976	Marionette	INFO	Stopped listening on port 53890
+1695682691859	geckodriver	INFO	Listening on 127.0.0.1:53119
+1695682692051	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/jb/450_05t92fldl1s_9jf7hdtm0000gn/T/rust_mozprofileGhfWOO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695682692693	Marionette	INFO	Marionette enabled
+2023-09-25 15:58:13.169 plugin-container[1909:11981146] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-25 15:58:13.170 plugin-container[1909:11981146] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1695682693256	Marionette	INFO	Listening on port 53125
+WebDriver BiDi listening on ws://127.0.0.1:53120
+Read port: 53125
+2023-09-25 15:58:13.536 plugin-container[1909:11981146] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-25 15:58:13.536 plugin-container[1909:11981146] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-25 15:58:13.536 plugin-container[1909:11981201] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-25 15:58:13.536 plugin-container[1909:11981201] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695682693562	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53120/devtools/browser/9dd8b887-d367-4d18-ac01-fb18d6c69962
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1695682699051	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1695682702444	geckodriver	INFO	Listening on 127.0.0.1:53173
+1695682702642	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/jb/450_05t92fldl1s_9jf7hdtm0000gn/T/rust_mozprofileKuePvm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1695682703056	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-09-25 15:58:23.198 plugin-container[1931:11981679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-25 15:58:23.198 plugin-container[1931:11981679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-25 15:58:23.201 plugin-container[1931:11981679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-25 15:58:23.201 plugin-container[1931:11981679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-09-25 15:58:23.201 plugin-container[1931:11981677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-09-25 15:58:23.201 plugin-container[1931:11981677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1695682703220	Marionette	INFO	Listening on port 53179
+WebDriver BiDi listening on ws://127.0.0.1:53174
+Read port: 53179
+1695682703429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53174/devtools/browser/5bcf0bc0-c4e6-4efd-952d-af8c4d6197b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1695682722642	Marionette	INFO	Stopped listening on port 53179
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:153:17
+Fz@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:459:134
+Gz/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:459:111
+
+console.error: services.settings: 
+  Message: StorageError: Storage error: UnknownError: IndexedDB: main/quicksuggest pruneAttachments() IndexedDB:  pruneAttachments() in main/quicksuggest The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+JavaScript error: , line 0: uncaught exception: Object
+console.error: (new StorageError("Storage error: UnknownError: IndexedDB: main/quicksuggest pruneAttachments() IndexedDB:  pruneAttachments() in main/quicksuggest The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/RemoteSettingsClient.sys.mjs", 157))

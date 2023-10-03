@@ -19,6 +19,8 @@ class Test_001_Login:
     logger=LogGen.loggen()
 
 #1st Tc1 - "test_homePageTitle"
+
+    @pytest.mark.regression
     def test_homePageTitle(self,setup):
         self.logger.info("********* TC_001_Login *********")
         self.logger.info("********* Verifying test_homePageTitle *********")
@@ -44,6 +46,8 @@ class Test_001_Login:
             assert False
 
 #1st Tc2 - "test_homePageTitle"
+    @pytest.mark.sanity
+    @pytest.mark.regression
     def test_login(self,setup):
         self.logger.info("********* Verifying test_login *********")
         # we've defined self.driver twice here in this method and above in the test_homePageTitle method

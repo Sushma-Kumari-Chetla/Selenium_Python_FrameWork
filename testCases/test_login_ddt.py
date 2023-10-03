@@ -8,6 +8,8 @@ from testCases import conftest
 from utilities.customLogger import LogGen #To create logd we created customLogger file
 from utilities import XLUtils
 
+
+@pytest.mark.regression
 class Test_002_DDT_Login:
 
     #call methods from Readconfig class by importing readproperties.py
