@@ -1130,3 +1130,57 @@ maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
 
 JavaScript error: , line 0: uncaught exception: Object
 console.error: (new StorageError("Storage error: UnknownError: IndexedDB: main/quicksuggest pruneAttachments() IndexedDB:  pruneAttachments() in main/quicksuggest The operation failed for reasons unrelated to the database itself and not covered by any other error code.", "resource://services-settings/RemoteSettingsClient.sys.mjs", 157))
+1696380987362	geckodriver	INFO	Listening on 127.0.0.1:59346
+1696380987563	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/jb/450_05t92fldl1s_9jf7hdtm0000gn/T/rust_mozprofilezVQIwS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696380988059	Marionette	INFO	Marionette enabled
+2023-10-03 17:56:28.266 plugin-container[30305:13348298] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-10-03 17:56:28.266 plugin-container[30305:13348298] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-10-03 17:56:28.271 plugin-container[30305:13348298] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-10-03 17:56:28.271 plugin-container[30305:13348298] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-10-03 17:56:28.271 plugin-container[30305:13348296] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-10-03 17:56:28.271 plugin-container[30305:13348296] nil host used in call to allowsAnyHTTPSCertificateForHost:
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1696380988352	Marionette	INFO	Listening on port 59354
+WebDriver BiDi listening on ws://127.0.0.1:59347
+Read port: 59354
+1696380988638	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59347/devtools/browser/b5e08cda-7a2a-4c41-a189-30d862fc62d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1696380993025	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+send@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:82714
+ajax@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:78291
+@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:4933
+k/t[r]@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:96:977
+t@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:849
+initOnce@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:104:1251
+init@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:105:637
+@https://admin-demo.nopcommerce.com/admin/:2549:46
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+1696380995293	geckodriver	INFO	Listening on 127.0.0.1:59406
+1696380995490	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/jb/450_05t92fldl1s_9jf7hdtm0000gn/T/rust_mozprofilepOgDG3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696380995904	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+2023-10-03 17:56:36.039 plugin-container[30335:13348848] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-10-03 17:56:36.039 plugin-container[30335:13348848] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-10-03 17:56:36.041 plugin-container[30335:13348848] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-10-03 17:56:36.041 plugin-container[30335:13348848] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2023-10-03 17:56:36.042 plugin-container[30335:13348853] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2023-10-03 17:56:36.042 plugin-container[30335:13348853] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1696380996061	Marionette	INFO	Listening on port 59414
+WebDriver BiDi listening on ws://127.0.0.1:59407
+Read port: 59414
+1696380996271	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59407/devtools/browser/fc6745ff-b292-4461-a111-e98f793a86ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1696381014119	Marionette	INFO	Stopped listening on port 59414

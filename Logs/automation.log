@@ -1489,3 +1489,78 @@
 09252023 03:58:22 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
 09252023 03:58:24 PM: INFO :********* Verifying test_login *********
 09252023 03:58:42 PM: INFO :********* PASSED: test_login *********
+10032023 05:53:51 PM: INFO :====== WebDriver manager ======
+10032023 05:54:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:54:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:54:17 PM: INFO :There is no [mac64] chromedriver "117.0.5938.149" for browser google-chrome "117.0.5938.149" in cache
+10032023 05:54:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:54:17 PM: INFO :WebDriver version 117.0.5938.92 selected
+10032023 05:54:17 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+10032023 05:54:17 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+10032023 05:54:17 PM: INFO :Driver downloading response is 200
+10032023 05:54:17 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:54:18 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/117.0.5938.149]
+10032023 05:54:25 PM: INFO :**********Test 003 AddCustomers **********
+10032023 05:54:47 PM: INFO :********** Login Successful **********
+10032023 05:54:47 PM: INFO :********** Starting Add Customer Test **********
+10032023 05:55:05 PM: INFO :********** Providing Customer Info **********
+10032023 05:55:06 PM: INFO :********** Email entered **********
+10032023 05:55:06 PM: INFO :********** Password entered **********
+10032023 05:55:07 PM: INFO :********** FirstName entered **********
+10032023 05:55:07 PM: INFO :********** Last Name entered **********
+10032023 05:55:07 PM: INFO :********** Gender Selected **********
+10032023 05:55:08 PM: INFO :********** DOB entered **********
+10032023 05:55:09 PM: INFO :********** Company entered **********
+10032023 05:55:10 PM: INFO :********** Checked In Tax Exempt **********
+10032023 05:55:21 PM: INFO :********** Customer roles selected **********
+10032023 05:55:21 PM: INFO :********** Vendors selected **********
+10032023 05:55:22 PM: INFO :********** Check/Uncheck Active **********
+10032023 05:55:22 PM: INFO :********** Comments entered **********
+10032023 05:55:32 PM: INFO :********** Clicked on save **********
+10032023 05:55:32 PM: INFO :********** Saving Customer Info **********
+10032023 05:55:39 PM: INFO :********** Add Customer Test Passed **********
+10032023 05:55:39 PM: INFO :********** Ending Add Customer Test **********
+10032023 05:55:39 PM: INFO :====== WebDriver manager ======
+10032023 05:55:39 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:55:39 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:55:39 PM: INFO :There is no [mac64] chromedriver "117.0.5938.149" for browser google-chrome "117.0.5938.149" in cache
+10032023 05:55:39 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:55:39 PM: INFO :WebDriver version 117.0.5938.92 selected
+10032023 05:55:39 PM: INFO :Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+10032023 05:55:39 PM: INFO :About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/mac-x64/chromedriver-mac-x64.zip
+10032023 05:55:39 PM: INFO :Driver downloading response is 200
+10032023 05:55:40 PM: INFO :Get LATEST chromedriver version for google-chrome
+10032023 05:55:40 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/chromedriver/mac64/117.0.5938.149]
+10032023 05:55:46 PM: INFO :********* Verifying test_login *********
+10032023 05:56:23 PM: INFO :********* PASSED: test_login *********
+10032023 05:56:24 PM: INFO :====== WebDriver manager ======
+10032023 05:56:25 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:25 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:25 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+10032023 05:56:25 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:25 PM: INFO :Getting latest mozilla release info for v0.33.0
+10032023 05:56:26 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+10032023 05:56:26 PM: INFO :Driver downloading response is 200
+10032023 05:56:26 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:27 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+10032023 05:56:29 PM: INFO :**********Test 003 AddCustomers **********
+10032023 05:56:32 PM: INFO :********** Login Successful **********
+10032023 05:56:32 PM: INFO :********** Starting Add Customer Test **********
+10032023 05:56:33 PM: INFO :====== WebDriver manager ======
+10032023 05:56:33 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:33 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:33 PM: INFO :There is no [mac64] geckodriver "v0.33.0" for browser firefox "116.0" in cache
+10032023 05:56:33 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:34 PM: INFO :Getting latest mozilla release info for v0.33.0
+10032023 05:56:34 PM: INFO :About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.33.0/geckodriver-v0.33.0-macos.tar.gz
+10032023 05:56:34 PM: INFO :Driver downloading response is 200
+10032023 05:56:34 PM: INFO :Get LATEST geckodriver version for 116.0 firefox
+10032023 05:56:34 PM: INFO :Driver has been saved in cache [/Users/sushmakumarichetla/.wdm/drivers/geckodriver/mac64/v0.33.0]
+10032023 05:56:37 PM: INFO :********* Verifying test_login *********
+10032023 05:56:54 PM: INFO :********* PASSED: test_login *********
+10032023 05:58:14 PM: INFO :**********Test 003 AddCustomers **********
+10032023 05:58:20 PM: INFO :********** Login Successful **********
+10032023 05:58:20 PM: INFO :********** Starting Add Customer Test **********
+10032023 05:58:28 PM: INFO :**********Test 003 AddCustomers **********
+10032023 05:58:29 PM: INFO :********** Login Successful **********
+10032023 05:58:29 PM: INFO :********** Starting Add Customer Test **********
