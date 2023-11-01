@@ -2,8 +2,6 @@
 
 POM Design Pattern using Hybrid Framework
 
-Robot Framework is useful for people who have less coding knowledge or don't want to code more as there Framework becomes more complex.
-
 This framework uses following:
 
 1. POM design pattern
